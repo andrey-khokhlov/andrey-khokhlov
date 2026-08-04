@@ -40,3 +40,10 @@ active development.
 The repository demonstrates a structured FastAPI application with PostgreSQL,
 SQLAlchemy, Alembic migrations, tests, internationalisation, secure file
 handling, and clear separation of application responsibilities.
+
+## Technical foundation
+
+**Data and analytics:** SQL, Power BI, Tableau, Excel/VBA  
+**Application engineering:** Python, FastAPI, SQLAlchemy, Alembic  
+**Data platforms:** PostgreSQL, SQL Server  
+**Delivery and quality:** Docker, pytest, GitHub
