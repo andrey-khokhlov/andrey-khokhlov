@@ -13,3 +13,11 @@ to understand, validate, maintain, and use in real decisions.
 
 This includes information models, automated workflows, reporting environments,
 and user-facing products that connect data with practical action.
+
+## How I work
+
+I start with the decision that needs to be supported, then identify the evidence,
+information model, and process required to make that decision reliable.
+
+I prefer explicit logic, maintainable architecture, and automation of repetitive
+work over one-off solutions that are difficult to validate or evolve.
