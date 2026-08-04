@@ -47,3 +47,7 @@ handling, and clear separation of application responsibilities.
 **Application engineering:** Python, FastAPI, SQLAlchemy, Alembic  
 **Data platforms:** PostgreSQL, SQL Server  
 **Delivery and quality:** Docker, pytest, GitHub
+
+## Professional links
+
+[LinkedIn](https://www.linkedin.com/in/andrey-khokhlov-bi/)
