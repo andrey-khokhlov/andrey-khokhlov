@@ -29,3 +29,14 @@ designed to help people understand future consequences before making decisions.
 
 It brings together financial modelling, business intelligence, automation, and
 application engineering in one evolving product.
+
+## Selected project
+
+### [SmartBudgetSite](https://github.com/andrey-khokhlov/SmartBudgetSite)
+
+The public application and product infrastructure for SmartBudget, currently in
+active development.
+
+The repository demonstrates a structured FastAPI application with PostgreSQL,
+SQLAlchemy, Alembic migrations, tests, internationalisation, secure file
+handling, and clear separation of application responsibilities.
