@@ -21,3 +21,11 @@ information model, and process required to make that decision reliable.
 
 I prefer explicit logic, maintainable architecture, and automation of repetitive
 work over one-off solutions that are difficult to validate or evolve.
+
+## Current focus: SmartBudget
+
+SmartBudget is my current product focus: a personal financial planning system
+designed to help people understand future consequences before making decisions.
+
+It brings together financial modelling, business intelligence, automation, and
+application engineering in one evolving product.
